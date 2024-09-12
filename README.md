@@ -1,4 +1,10 @@
-## Hi there 👋
+👋 Hi there! I'm **Veronica**, a Front-End Developer based in Seattle, Washington. I have 8+ years of experience in web development, specializing in building sleek, responsive websites and working with Web3 technologies.
+
+- I’m currently diving deeper into **Solana** and **blockchain development** while continuing to work with **JavaScript**, **React**, and **Next.js**.
+- In my free time, I create **AI-generated art**, train custom models in **Stable Diffusion**, and explore new front-end technologies to push the boundaries of modern web design.
+- I love designing **aesthetically pleasing user interfaces** that are both functional and delightful to use.
+- My goal is to bridge the gap between **art and technology**, with a particular focus on creating **user-centric Web3 experiences**.
+- Always open to collaborating on innovative projects that fuse **creativity** with **cutting-edge technology**.
 
 <!--
 **veronzHub/veronzHub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
